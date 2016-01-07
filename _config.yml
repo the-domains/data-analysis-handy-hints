@@ -1,0 +1,28 @@
+name: Data Analysis Handy Hints
+favicon: null
+layout_spectrum: 0.13075201190076768
+typography_spectrum: 0.089032381772995
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6948134116828442
+  lightness: 0.26893767691217363
+  saturation: 0.4641274942550808
+  rhythmicContrast: 0.06010989914648235
+purpose: []
